@@ -20,3 +20,10 @@ A factory class (RegistrationFactory) using the Factory method design pattern, w
 argument and other arguments. The RegistrationFactory is an implementation of the Singleton pattern.   
 parts of the solution that were creating concrete Registration objects (based on the user input and 
 RegistrationListReader) are replaced by appropriate code to utilise the RegistrationFactory. 
+
+HOW TO RUN.
+This project runs on QT Creator, the latest version can be used.
+A Qt Widgets Application is the required template when configured as a new project.
+The build system is CMake.
+The kit selection is Desktop MinGW 64-bit
+
