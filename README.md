@@ -1,6 +1,5 @@
-# Intergrove project
+# Data for conference registration project
 Registration_List
-Intergrove project
 
 There are three types of registration allowed for the conference: standard registration, student registration and invited guests registration. The standard registration fee is the 
 standard fee (stored in STANDARD_FEE). For those registered as students, the conference fee is half the price of the standard registration fee. For those registered as 
